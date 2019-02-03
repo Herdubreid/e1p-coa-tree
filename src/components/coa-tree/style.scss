@@ -1,0 +1,20 @@
+/* jstree */
+@import '../../../node_modules/jstree/dist/themes/default/style.css';
+
+.coa-tree {
+    .jstree-anchor {
+        margin-bottom: 4px;
+    }
+    .large-icon {
+        padding: 3px;
+        margin-right: 6px;
+    }
+    .icon {
+        padding: 5px;
+        margin-right: 6px;
+    }
+    .small-icon {
+        padding: 7px;
+        margin-right: 6px;
+    }
+}
